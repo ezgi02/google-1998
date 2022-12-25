@@ -1,0 +1,40 @@
+center{
+    text-align: center;
+}
+
+  .box{
+    text-align: center;
+    
+}  
+    
+p.ridge {
+    border-style: ridge;
+    float:right;
+}   
+  
+.box2{
+  text-align: center;
+  background-color:grey ;
+  width: 900px;
+  height: 90px;
+  margin: 0px;
+  
+}    
+  
+.box3{
+  width:300px ;
+  height:190px;
+  float:left;
+}
+.renk1{
+  background-color:turquoise;
+}
+.renk2{
+  background-color: aquamarine;
+
+}
+.renk3{
+  background-color: aqua;
+}
+  
+  
